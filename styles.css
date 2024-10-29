@@ -43,6 +43,7 @@ body {
     padding: 10px;
     justify-content: center;
     cursor: pointer;
+    background-color: #fff;
 }
 .play {
     width: 48px;
@@ -53,6 +54,7 @@ body {
     padding: 10px;
     justify-content: center;
     cursor: pointer;
+    background-color: #fff;
 }
 .pause {
     width: 48px;
@@ -63,6 +65,7 @@ body {
     display: flex;
     justify-content: center;
     cursor: pointer;
+    background-color: #fff;
 }
 .refresh:active, .play:active, .pause:active {
     opacity: 0.3;
